@@ -41,3 +41,27 @@ Improve customer retention strategies
 Identify high-risk churn groups
 
 Enhance customer satisfaction by targeting the right segments
+
+# "The dashboard highlights key metrics such as total customers, churned customers, and overall churn rate.
+This gives a quick overview of how serious the churn problem is for the telecom company."
+
+[Contract Type ]
+"One of the strongest indicators of churn is contract type.
+Customers on month-to-month contracts churn the most, while those on one-year or two-year contracts are far more stable.
+This shows the importance of encouraging customers to shift toward long-term plans."
+
+[Payment Method ]
+"Another significant factor is payment method.
+Electronic check users churn at the highest rate compared to those paying through credit card or bank  transfers.
+This insight suggests improving the electronic check process or incentivizing auto-pay methods."
+
+[Tenure ]
+"The analysis also reveals that customers with shorter tenures are more likely to leave, while long-term customers show higher loyalty.
+This means that the first few months are critical, and telecom companies should focus on strong onboarding and engagement strategies."
+
+[Services & Bundling ]
+"Customers who subscribe to multiple services, such as internet plus phone, churn less compared to those with single services.
+Encouraging bundling packages can therefore reduce churn and increase loyalty."
+
+"In conclusion, the analysis identifies clear risk groups: short-tenure, month-to-month customers paying with electronic checks.
+By addressing these areas with targeted strategies, telecom companies can significantly reduce churn and improve customer retention.
